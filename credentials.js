@@ -1,0 +1,1 @@
+module.exports = {cookieSecret: 'teiw14 klass skola'}

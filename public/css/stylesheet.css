@@ -1,0 +1,9 @@
+
+ul.nav a:hover { background-color: #ff4081 !important;
+transition: .6s }
+
+.active{
+background-color:#c1c1c1;
+
+
+}
